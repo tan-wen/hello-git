@@ -7,3 +7,5 @@ modify in dev
 modify in dev2
 
 modify in dev3
+
+test mbp github config
