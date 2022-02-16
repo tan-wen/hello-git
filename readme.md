@@ -9,3 +9,5 @@ modify in dev2
 modify in dev3
 
 test mbp github config
+
+test win github config
