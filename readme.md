@@ -13,3 +13,9 @@ test mbp github config
 test win github config
 
 2022年2月16日
+
+javac Demo.java
+
+java Demo
+
+jar cvfe demo.jar Demo Demo.class
