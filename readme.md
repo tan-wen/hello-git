@@ -22,4 +22,8 @@ jar cvfe demo.jar Demo Demo.class
 
 jar tvf demo.jar
 
+
 modify in HEAD 指针分离
+
+modify in dev
+
