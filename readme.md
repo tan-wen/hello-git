@@ -27,5 +27,6 @@ modify in HEAD 指针分离
 
 modify in dev
 
-
 modify in b2 and commit c2
+
+modify in b1 branch and commit c1
